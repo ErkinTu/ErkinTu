@@ -47,16 +47,6 @@
 
 ---
 
-### 🎮 **Мини-игра**  
-Попробуй управлять котом! 😺  
-<p align="center">
-  <img src="https://github.com/ErkinTu/ErkinTu/raw/main/cat-game.gif" width="300">
-</p>
-
-[➡️ Играть в мини-игру](https://github.com/ErkinTu/cat-game)  
-
----
-
 ### 🛠️ **Мои навыки**  
 
 #### 🎨 **Frontend**  
