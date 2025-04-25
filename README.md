@@ -1,64 +1,50 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=Hello!+I'm+Erkin+👋;Full-Stack+Developer;Code+Enthusiast+🔥" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50">
-  <strong>Full-Stack Developer | Code Enthusiast</strong>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50">
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=false&width=435&lines=Hey+there!+I'm+Erkin+%F0%9F%91%8B;Backend+Developer+%F0%9F%94%A5;Django+%7C+DRF+%7C+Vue3" />
 </p>
 
 ---
 
-### 🌍 Connect with me
-<p align="center">
-  <a href="https://t.me/AccErkin">
-    <img src="https://img.shields.io/badge/Telegram-AccErkin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://github.com/ErkinTu">
-    <img src="https://img.shields.io/badge/GitHub-ErkinTu-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/erkint3120">
-    <img src="https://img.shields.io/badge/LeetCode-erkint3120-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://www.instagram.com/_erkin.t_/">
-    <img src="https://img.shields.io/badge/Instagram-_erkin.t_-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+### 🚀 About Me
+I'm a backend developer who occasionally flirts with the frontend world 😎  
+Main stack: **Django**, **DRF**, **PostgreSQL**, **Vue 3**, **Docker**, **Linux**.
+
+- 🐍 Python enjoyer  
+- 🔧 Linux terminal warrior  
+
+---
+
+### 🛠 Tech Stack
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+### 📬 Contacts
+
+<p align="right">
+  <a href="https://t.me/AccErkin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/ErkinTu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_erkin.t_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/erkint3120"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErkinTu&show_icons=true&theme=radical&count_private=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkinTu&theme=radical" height="150">
-</p>
+### 🧠 LeetCode Stats
 
-<!--
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErkinTu&theme=radical" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErkinTu&theme=radical" height="150">
-</p>
--->
----
-
-### 🏆 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/erkint3120?theme=dark&font=Karma">
+<p align="right">
+  <img src="https://leetcard.jacoblin.cool/erkint3120?theme=dark&font=Fira+Code"/>
 </p>
 
 ---
+
+<p align="right">Made with ❤️ by Erkin</p>
