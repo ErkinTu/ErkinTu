@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 I'm a backend developer who occasionally flirts with the frontend world 😎  
-Main stack: **Django**, **DRF**, **PostgreSQL**, **Vue 3**, **Docker**, **Linux**.
+Main stack: **Django**, **DRF**, **PostgreSQL**, **Vue 3**, **Docker**, **Linux**, **JavaScript**.
 
-- 🐍 Python enjoyer  
+- 🐍 Python developer
 - 🔧 Linux terminal warrior  
 
 ---
@@ -24,6 +24,7 @@ Main stack: **Django**, **DRF**, **PostgreSQL**, **Vue 3**, **Docker**, **Linux*
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
